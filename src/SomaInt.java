@@ -11,6 +11,7 @@ public class SomaInt {
 
         int soma = num1 + num2;
         System.out.print(soma);
+        input.close();
 
     }
 }
