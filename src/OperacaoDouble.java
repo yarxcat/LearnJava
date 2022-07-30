@@ -17,7 +17,7 @@ public class OperacaoDouble {
 
         double media = (nota1 + nota2 + nota3)/3;
         System.out.printf("Sua media foi de %.2f", media);
-        
+
         input.close();
     }
 }
